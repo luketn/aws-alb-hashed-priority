@@ -1,0 +1,1 @@
+docker build -t aws-alb-hashed-priority .
